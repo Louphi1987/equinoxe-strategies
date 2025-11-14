@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 from atproto import Client, models
 from difflib import SequenceMatcher
 
+
 # =======================
 # Chargement configuration
 # =======================
