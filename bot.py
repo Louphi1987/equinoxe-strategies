@@ -2,7 +2,7 @@
 # equinoxe_strategie.py — version complète refondue avec diversité + mémoire
 
 # =========================
-# Dépendances (requirements)
+# Dépendances   (requirements)
 # =========================
 # pip install atproto feedparser requests beautifulsoup4 python-dateutil
 
