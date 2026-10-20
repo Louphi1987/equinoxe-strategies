@@ -1,6 +1,7 @@
 # coding: utf-8
 # equinoxe_strategie.py — version complète refondue avec diversité + mémoire  
 
+
 # =========================
 # Dépendances   (requirements)
 # =========================
